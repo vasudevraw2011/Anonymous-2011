@@ -1,0 +1,6 @@
+{
+  "name": "Career DNA Web",
+  "description": "AI-powered Career Intelligence Web connecting students, job seekers, employers, and mentors with personalized DNA analysis, roadmaps, and skills profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
